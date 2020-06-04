@@ -1,14 +1,12 @@
 package com.jsinfor.bean;
 
 import java.io.Serializable;
-import java.util.Date;
 
 import io.swagger.annotations.ApiModelProperty;
 
 /**
  * Person 实体bean 
  * 映射表 t_person  
- * @author ZhuangWJ 
  *
  */
 public class Person implements Serializable{
